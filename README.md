@@ -1,4 +1,4 @@
-# 2020732048_AnJinBin
+# 2020732048_안진빈
 
 ---
 ### 이 repository는 remote에서 수정  
